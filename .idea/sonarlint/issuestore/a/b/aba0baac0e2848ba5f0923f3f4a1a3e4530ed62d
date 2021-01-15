@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚáÚö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éÂÚö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö°ÚÃ
+a
+java:S1192"KDefine a constant instead of duplicating this literal " Not Weird" 3 times.(éÂÚö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¶‹¡üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éÂÚö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éÂÚö
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
